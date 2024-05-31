@@ -1,8 +1,7 @@
 //
 //  RequestManager.swift
-//  Evolve Home screen
 //
-//  Created by Tanmay Goel on 20/04/24.
+//  Created by Manish on 20/04/24.
 //
 import Foundation
 
